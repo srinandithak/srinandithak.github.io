@@ -255,7 +255,7 @@ h1 {
   display: flex; /* Use Flexbox for horizontal alignment */
   justify-content: space-around; /* Distribute space around items */
   align-items: center; /* Center items vertically */
-  padding: 10px; /* Optional: add some padding around the wrapper */
+  padding: 30px; /* Optional: add some padding around the wrapper */
 }
 
 /* Flexbox settings for each section inside .wrapper */
